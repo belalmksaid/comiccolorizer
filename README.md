@@ -1,4 +1,4 @@
-#comiccolorizer
+# ComicColorizer
 Neural Network to colorize greyscale comics for manga
 
 Results
