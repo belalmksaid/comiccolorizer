@@ -7,13 +7,13 @@ Results
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grayscale&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prediction&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ground Truth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |---|---|---|
 
-![grayscale-pred-groundtruth](summary/11000_0.jpg?raw=true "grayscale-pred-groundtruth-295000")
+![grayscale-pred-groundtruth](summary/11000_0.jpg?raw=true )
 
-![grayscale-pred-groundtruth](summary/6000_0.jpg?raw=true "grayscale-pred-groundtruth-496000")
+![grayscale-pred-groundtruth](summary/6000_0.jpg?raw=true)
 
-![grayscale-pred-groundtruth](summary/2000_0.png?raw=true "grayscale-pred-groundtruth-88000")
+![grayscale-pred-groundtruth](summary/2000_0.jpg?raw=true)
 
-![grayscale-pred-groundtruth](summary/19000_0.png?raw=true "grayscale-pred-groundtruth-99000")
+![grayscale-pred-groundtruth](summary/19000_0.jpg?raw=true)
 
 Sources
 -------
