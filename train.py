@@ -274,15 +274,16 @@ try:
             if step % 1000 == 0:
                 summary_image = concat_images(grayscale_rgb_[0], pred_rgb_[0])
                 summary_image = concat_images(summary_image, colorimage_[0])
-                plt.imsave("summary/" + str(step) + "_0.jpg", summary_image)
+                plt.imsave("summary/" + str(step) + "_iop.jpg", summary_image)
 
             sys.stdout.flush()
             writer.add_summary(merged_, step)
             writer.flush()
-        if step % 100000 == 99998:
-            save_path = saver.save(sess, "model.ckpt")
+        if step == 200000:
+            save_path = saver.save(sess, "summary/model.ckpt")
             print("Model saved in file: %s" % save_path)
             sys.stdout.flush()
+            coord.request_stop()
 
 except tf.errors.OutOfRangeError:
     print('Done training -- epoch limit reached')
