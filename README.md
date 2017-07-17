@@ -9,11 +9,11 @@ Results
 
 ![grayscale-pred-groundtruth](summary/11000_iop.jpg?raw=true )
 
-![grayscale-pred-groundtruth](summary/6000_iop.jpg?raw=true)
+![grayscale-pred-groundtruth](summary/98000_iop.jpg?raw=true)
 
-![grayscale-pred-groundtruth](summary/2000_iop.jpg?raw=true)
+![grayscale-pred-groundtruth](summary/57000_iop.jpg?raw=true)
 
-![grayscale-pred-groundtruth](summary/19000_iop.jpg?raw=true)
+![grayscale-pred-groundtruth](summary/199000_iop.jpg?raw=true)
 
 Sources
 -------
